@@ -14,7 +14,8 @@ Features
 --------
 
 - Be awesome
-- Make things faster
+- Make things faster 
+- Have control of your stuff
 
 Installation
 ------------
